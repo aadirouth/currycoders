@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <style>
   header {
        position: fixed;
@@ -23,8 +23,13 @@ top: 0;
 <body>
 
 <header>
-    <img src="https://cdn.discordapp.com/attachments/1284095853946212434/1327543169763774596/image.png?ex=6783726c&is=678220ec&hm=2ecd32a6cfffd2d0d8e236d4dfb08f43dcd201d14ca0dd84e7a65926cf79606f&"
-     width="310px" height="75px">
+    <img src="https://cdn.discordapp.com/attachments/1279737662055649321/1327747507517657150/image.png?ex=678430ba&is=6782df3a&hm=dd08e670061fd6c1f0010133c0fcc418414df56063773e59d9b07fe7092ae8f4&"
+     width="310px" height="75px">     
+     <a href="Quizzes webpage for the website.html" style="text-decoration: none;">
+        <img src="https://cdn.discordapp.com/attachments/1279737662055649321/1327762351881191475/image.png?ex=67843e8d&is=6782ed0d&hm=2c2bbe12e2cd170837bf8a17ae8b82bff8a63a7146a7f22a24b4de4860d08af3&" style="display: inline-block; width: 200px; height: 75px ;">Quizzes</img>
+
+     </a>
+
 
 </header>
 
@@ -34,6 +39,10 @@ top: 0;
 
 <img src="https://media.discordapp.net/attachments/1284095853946212434/1327521893900750909/Image_of_a_group_of_people_for_Codefest.png?ex=67835e9b&is=67820d1b&hm=b133ad2746381f025faf430d42066de4a617701fc500a753e5fbecfbd37ae938&=&format=webp&quality=lossless&width=1237&height=659" style="width: 100%; height: auto;">
 
+
+    </tr>
+</table>
+
 </body>
 </html>
 <br>
@@ -42,9 +51,50 @@ top: 0;
 
 <h1 style="text-align: center; font-size: 40px; font-style:inherit;"> Explore! </h1>
 <br>
+
+
+<a href="Article on Mesopotania.html">
+    <img src="https://cdn.discordapp.com/attachments/1284095853946212434/1327663377572434093/image.png?ex=6783e260&is=678290e0&hm=c33f37df14a155e253e2810085b5ba5f6286f45a2afd5239e4df4431b44f1938&" width="380px" height="300px" style="display: inline-block; margin-left: 20px;"> 
+   
+</a>
+<a href="Germanic Civilisation.html">
+    <img src="https://cdn.discordapp.com/attachments/1284095853946212434/1327684926946152561/image.png?ex=6783f671&is=6782a4f1&hm=39db02c87934e72966ee29f35347a40419c6efc39fec1acce500176c09ade5e8&"width="380px" height="300px" style="display: inline-block; margin-left: 20px;">
+</a>
+
+<a href="Ancient Persia article.html">
+<img src="https://media.discordapp.net/attachments/1284095853946212434/1327681249934049340/image.png?ex=6783f305&is=6782a185&hm=4705159be6a8c547a20acc90a3be58c77c2da05a9254d965dc09f9ee710b84cb&=&format=webp&quality=lossless&width=1579&height=1021" width="380px" height="300px" style="display: inline-block; margin-left: 20px;">
+
+</a>
+
+
+
+
+
+
+<h1 style="text-align: center; font-size: 40px; font-style: inherit;"> Featured Area</h1>
 <br>
 
 
+<table>
+    <tr>
+    </tr>
+</table>
+<a href="Ancient Egypt article.html">
+
+   <td> <img src="https://cdn.discordapp.com/attachments/1284095853946212434/1327680955871137862/image.png?ex=6783f2be&is=6782a13e&hm=398758f11b6c02ec7b3321a0d1a226bbfbe9bb28a402ed4d397cba76d21bfa83&" width="600px" height="300px" style="margin-left: 5px; vertical-align: top; width: 700px; display: inline-block;"> </td>  
+</a>
+<img src="https://cdn.discordapp.com/attachments/1279737662055649321/1327736174290272308/image.png?ex=6784262c&is=6782d4ac&hm=a07406fe95d6352c51ff71b0a08d5ea00ffc6d3032ea8bb2835f7dc071db3539&"width="500px" height="300px" style="display: inline-block; margin-left: 20px;">
+   
+
+    
+     </style>
+
+</div>
+
+</tr>
 
 
-<h1 style="text-align: center; font-size: 40px; font-style: inherit;"> Featured Areas</h1>
+
+
+
+

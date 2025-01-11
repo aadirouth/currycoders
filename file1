@@ -1,11 +1,50 @@
-<!DOCTYPE html>.
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>
-Educational technology
-</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+  header {
+       position: fixed;
+top: 0;
+        left: 0;
+     width: 100%;       background-color: black;
+  color: black;
+            padding: 20px;
+            text-align: center;
+        }
+
+       source  {
+            padding-top: 50px; 
+        }
+    </style>
 </head>
 <body>
-<h1>EdTech</h1>
+
+<header>
+    <img src="https://cdn.discordapp.com/attachments/1284095853946212434/1327543169763774596/image.png?ex=6783726c&is=678220ec&hm=2ecd32a6cfffd2d0d8e236d4dfb08f43dcd201d14ca0dd84e7a65926cf79606f&"
+     width="310px" height="75px">
+
+</header>
+
+<div class="top-section">
+    <h1>Around the globe</h1>
+</div>
+
+<img src="https://media.discordapp.net/attachments/1284095853946212434/1327521893900750909/Image_of_a_group_of_people_for_Codefest.png?ex=67835e9b&is=67820d1b&hm=b133ad2746381f025faf430d42066de4a617701fc500a753e5fbecfbd37ae938&=&format=webp&quality=lossless&width=1237&height=659" style="width: 100%; height: auto;">
+
 </body>
 </html>
+<br>
+<br>
+<br>
+
+<h1 style="text-align: center; font-size: 40px; font-style:inherit;"> Explore! </h1>
+<br>
+<br>
+
+
+
+
+<h1 style="text-align: center; font-size: 40px; font-style: inherit;"> Featured Areas</h1>
